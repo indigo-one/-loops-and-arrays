@@ -25,5 +25,3 @@ for (let i = 0; i < select.length; i++ ) {
 
 
 }
-
-alert(123)
